@@ -1,2 +1,2 @@
 # fanorona-java-socket
-Multiplayer Fanorona game LAN Communication.
+Multiplayer Fanorona game Socket Communication.
